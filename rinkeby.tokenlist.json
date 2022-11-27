@@ -393,6 +393,14 @@
     },
     {
       "chainId": 4,
+      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
+    },
+    {
+      "chainId": 4,
       "address": "0x5B281A6DdA0B271e91ae35DE655Ad301C976edb1",
       "name": "Compound USD Coin",
       "symbol": "cUSDC",
