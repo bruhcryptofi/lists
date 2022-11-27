@@ -1,0 +1,71 @@
+{
+    "name": "Brfi Testnet List",
+    "timestamp": "2022-09-17T11:14:29.993Z",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/jameschen1029384756/tokenlists/main/Dogechain/testnet/brfi_logo.png",
+    "keywords": [
+        "brfi",
+        "bruh"
+    ],
+    "tokens": [
+        {
+            "chainId": 568,
+            "address": "0x567912D4981c058D76Cf07c67724830d8BE80d51",
+            "name": "5thStreet",
+            "symbol": "FIFTH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logow.png"
+        },
+        
+        {
+            "chainId": 568,
+            "address": "0xA017B59CD562116b13C056C14b358f8BF61CEE02",
+            "name": "Monomial",
+            "symbol": "MONO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logow.png"
+        },
+        
+        {
+            "chainId": 568,
+            "address": "0xa90eC2aA26F901AF39B72eB855baAc2fa160E62C",
+            "name": "MakerDAO",
+            "symbol": "MKR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+        },
+        
+          {
+            "chainId": 568,
+            "address": "0xF7726B130669C03DBe6D50293c934bc37766C6be",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        
+        {
+            "chainId": 568,
+            "address": "0xb618514b636C4405C55AC40A1AdC291E721b99D6",
+            "name": "Tether",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        
+        {
+            "chainId": 568,
+            "address": "0x260Bb3Cc2054616f4D4B6689fCdA5cc451ED4388",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        
+        }
+    ]
+}
