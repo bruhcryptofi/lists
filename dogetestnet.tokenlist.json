@@ -1,13 +1,13 @@
 {
     "name": "Brfi Testnet List",
-    "timestamp": "2022-09-17T11:14:29.993Z",
+    "timestamp": "2022-11-26T10:13:02:88Z",
     "version": {
         "major": 0,
         "minor": 1,
         "patch": 0
     },
     "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/jameschen1029384756/tokenlists/main/Dogechain/testnet/brfi_logo.png",
+    "logoURI": "https://raw.githubusercontent.com/bruhcryptofi/lists/main/192x192_App_Icon.png",
     "keywords": [
         "brfi",
         "bruh"
