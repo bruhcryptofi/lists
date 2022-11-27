@@ -16,6 +16,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
+      {
+      "chainId": 1,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
+    },
     {
       "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
@@ -223,6 +231,14 @@
       "symbol": "ZRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+      {
+      "chainId": 3,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
     },
     {
       "chainId": 3,
@@ -496,6 +512,14 @@
     },
     {
       "chainId": 5,
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
+    },
+    {
+      "chainId": 5,
       "address": "0xCEC4a43eBB02f9B80916F1c718338169d6d5C1F0",
       "name": "Compound USD Coin",
       "symbol": "cUSDC",
@@ -620,6 +644,14 @@
       "symbol": "ZRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 42,
+      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
     },
     {
       "chainId": 42,
